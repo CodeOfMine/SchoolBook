@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    text-align: center;
+}
+#center {
+    width: 700px;
+}
+#header {
+    width: 100px;
+    height: 30px;
+    float: right;
+}
+#login {
+    color: red;
+}
+#span {
+    color: red;
+}
+#btn-publish {
+    display: inline-block;
+    width: 70px;
+    height: 27px;
+}
+#back {
+    color: #ff9220;
+}
+#content {
+    width: 669px;
+    height: 77px;
+}
+#loginUser {
+    display: inline-block;
+    width: 80px;
+    height: 24px;
+    color: red;
+    background-color: skyblue;
+}

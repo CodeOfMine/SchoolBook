@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    text-align: center;
+}
+#register {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+#btn-register {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+#loginUser {
+    display: inline-block;
+    width: 80px;
+    height: 24px;
+    color: red;
+    background-color: skyblue;
+}

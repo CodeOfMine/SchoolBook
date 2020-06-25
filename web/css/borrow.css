@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    text-align: center;
+}
+#center {
+    width: 700px;
+}
+#borrowInfo {
+    width: 300px;
+    margin: 10px auto;
+    height: 50px;
+}
+#header {
+    width: 100px;
+    height: 30px;
+    float: right;
+}
+#login {
+    color: red;
+}
+#span {
+    color: red;
+}
+#btn-borrow {
+    display: inline-block;
+    width: 70px;
+    height: 27px;
+}
+#back {
+    color: #ff9220;
+}

@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    font-size: 24px;
+    position: absolute;
+    margin-left: 595px;
+}
+a {
+    text-decoration: none;
+}
+#header {
+    width: 100%;
+    height: 151px;
+    position: relative;
+}
+#header>img {
+    width: 100%;
+    height: 151px;
+    position: absolute;
+}
+#welcome {
+    width: 150px;
+    height:30px;
+    float: right;
+    position: absolute;
+    right: 6px;
+    top: 10px;
+}
+#welcome>span {
+    color: red;
+}
+#loginUser {
+    display: inline-block;
+    width: 80px;
+    height: 24px;
+    color: red;
+    background-color: skyblue;
+}
+#pleaseLogin {
+    width: 130px;
+    height:30px;
+    position: absolute;
+    float: right;
+    right: 6px;
+    top: 10px;
+}
+#pleaseLogin>a {
+    color: red;
+}
+#center {
+    width: 100%;
+    height: 535px;
+    background-color: #cccccc;
+}
+#footer {
+    width: 100%;
+}
+#footer>img {
+    width: 100%;
+}
+#hrefs {
+    width: 300px;
+    height: 25px;
+    position: absolute;
+    float: left;
+    top: 120px;
+    left: 10px;
+}
